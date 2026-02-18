@@ -6,7 +6,7 @@ Forse perché il tuo compito è più _unico_ che raro 💀
 
 **GENERARE DAD JOKES**! 🎭
 
-<img width="600" alt="dadjoke-mona" src="../images/dadjoke-mona.png" />
+<img width="600" alt="dadjoke-mona" src="https://github.com/IDT-25-27/idt-25-27-classroom-173794-custom-github-actions-custom-github-actions/blob/main/.github/images/dadjoke-mona.png?raw=true" />
 
 Poiché non esiste alcuna action pre-fabbricata per queste stravaganti esigenze di automazione, è tempo di rimboccarsi le maniche e crearne una tua!
 

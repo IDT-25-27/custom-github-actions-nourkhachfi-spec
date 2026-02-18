@@ -10,7 +10,7 @@ L'unica cosa rimasta da fare è testarla!
 
 1. Monitora la scheda **Actions** finché il workflow `Joke Action` venga completato:
 
-   <img width="400" alt="Screenshot of the Joke Action workflow run showing a successful completion" src="../images/joke-action-workflow-run.png" />
+   <img width="400" alt="Screenshot of the Joke Action workflow run showing a successful completion" src="https://github.com/IDT-25-27/idt-25-27-classroom-173794-custom-github-actions-custom-github-actions/blob/main/.github/images/joke-action-workflow-run.png?raw=true" />
 
 
 1. Torna alla issue e dovresti vedere un nuovo commento postato da `github-actions[bot]` contenente una dad joke casuale!
